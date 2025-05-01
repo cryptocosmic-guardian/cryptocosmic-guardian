@@ -1,47 +1,56 @@
-# 👨‍🚀 Cristian Saraiva  **`Tech Enthusiast`**
+# 👨‍🚀 Cristian Saraiva **`Tech Enthusiast`**
 
-Hi there! I'm Cristian, a 360-year-old self-taught developer from a planet like Earth, but in a different solar system 🌍✨. I've been exploring tech for centuries (literally), building tools, automating tasks, and having fun doing it.
+Greetings from **ExoTerra**, a vibrant Earth-like planet orbiting the star Kepler-452!  
+I'm Cristian Saraiva — a **360-year-old autodidact** on a mission to craft intelligent solutions through code. With a sharp curiosity and relentless drive, I explore and build with:
 
-I'm passionate about solving real problems with code — especially using **Kotlin**, **Python**, **C++ (basic)**, **PHP**, **HTML**, and **CSS**.
+**Kotlin**, **C++ (basic)**, **Python**, **PHP**, **HTML**, and **CSS**.
 
-> “I don’t just write code. I craft digital spells that turn logic into magic.” 🔮
+> _"I don't just write code. I terraform ideas into reality."_ 🚀
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryptocosmic-guardian&show_icons=true&theme=tokyonight" alt="Cristian's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptocosmic-guardian&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+[👉 Join my Telegram Channel](https://t.me/ccgen_namsogen)
 
 ---
 
-### 📡 Stay connected
+### 🧠 Technologies I work with
+
 <p align="left">
-  <a href="https://t.me/ccgen_namsogen">
-    <img
-      alt="Telegram"
-      title="Join me on Telegram"
-      src="https://img.shields.io/badge/Telegram-Join%20Chat-blue?style=for-the-badge&logo=telegram&logoColor=white"
-    />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="36px" style="padding: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="36px" style="padding: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="36px" style="padding: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="36px" style="padding: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="36px" style="padding: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="36px" style="padding: 5px;" />
 </p>
 
 ---
 
-### 🤖 Languages & Technologies
+### 🌌 About Me
 
-<img align="left" alt="Kotlin" title="Kotlin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/>
-<img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-
-<br/><br/>
+- 🪐 Origin: **ExoTerra**, system Kepler-452  
+- 🧠 Mindset: **Self-taught | Curious | Bold**
+- 🛠️ Mission: Turn ideas into cross-dimensional code
+- 🔭 Side Hustle: Building tools that work in any galaxy
+- 🛰️ Connect: [My Telegram Channel](https://t.me/ccgen_namsogen)
 
 ---
 
-Thanks for stopping by! Let’s build something legendary 🧠🚀
+### 📈 GitHub Stats
+
+<p>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=cryptocosmic-guardian&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptocosmic-guardian&theme=tokyonight&layout=compact&langs_count=8&custom_title=Languages" />
+</p>
+
+<br clear="both"/>
+
+---
+
+### 🧭 Fun Facts
+
+- 🧬 I believe every bug is just a misunderstood feature.
+- 🕹️ I code like a time traveler — one fix ahead of the future.
+- 📜 I'm writing code that might one day survive interstellar transmission.
+
+---
+
+#### 🌠 "Code is the closest thing to magic we’ve ever created." — And I plan to use it well.
