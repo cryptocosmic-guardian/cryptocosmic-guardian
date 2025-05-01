@@ -6,6 +6,18 @@ I'm passionate about solving real problems with code — especially using **Kotl
 
 > “I don’t just write code. I craft digital spells that turn logic into magic.” 🔮
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CristianSaraiva&show_icons=true&theme=tokyonight" alt="Cristian's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CristianSaraiva&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
 ### 📡 Stay connected
 <p align="left">
   <a href="https://t.me/ccgen_namsogen">
