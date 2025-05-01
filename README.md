@@ -1,56 +1,55 @@
-# 👨‍🚀 Cristian Saraiva **`Tech Enthusiast`**
+<h1 align="center">👨‍🚀 Cristian Saraiva</h1>
+<h3 align="center">360-year-old Tech Enthusiast from planet ExoTerra 🌍✨</h3>
 
-Greetings from **ExoTerra**, a vibrant Earth-like planet orbiting the star Kepler-452!  
-I'm Cristian Saraiva — a **360-year-old autodidact** on a mission to craft intelligent solutions through code. With a sharp curiosity and relentless drive, I explore and build with:
+<p align="center">
+  <em>"I don't just write code. I terraform ideas into reality."</em>
+</p>
 
-**Kotlin**, **C++ (basic)**, **Python**, **PHP**, **HTML**, and **CSS**.
-
-> _"I don't just write code. I terraform ideas into reality."_ 🚀
-
-[👉 Join my Telegram Channel](https://t.me/ccgen_namsogen)
+<div align="center">
+  <a href="https://t.me/ccgen_namsogen">
+    <img src="https://img.shields.io/badge/🔗%20Join%20my%20Telegram-blue?style=for-the-badge" />
+  </a>
+</div>
 
 ---
 
-### 🧠 Technologies I work with
+## 🧬 About Me
+
+- 🪐 **Origin:** ExoTerra, orbiting Kepler-452  
+- 🧠 **Mindset:** Autodidact | Curious | Relentless  
+- 🔭 **Mission:** Build tools that make life easier in any galaxy  
+- 🛠️ **Fields:** Android Dev, Web Dev, Tooling, AI-driven apps  
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="36px" style="padding: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="36px" style="padding: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="36px" style="padding: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP" alt="PHP" width="36px" style="padding: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="36px" style="padding: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="36px" style="padding: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
 </p>
 
 ---
 
-### 🌌 About Me
+## 📊 GitHub Stats
 
-- 🪐 Origin: **ExoTerra**, system Kepler-452  
-- 🧠 Mindset: **Self-taught | Curious | Bold**
-- 🛠️ Mission: Turn ideas into cross-dimensional code
-- 🔭 Side Hustle: Building tools that work in any galaxy
-- 🛰️ Connect: [My Telegram Channel](https://t.me/ccgen_namsogen)
-
----
-
-### 📈 GitHub Stats
-
-<p>
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=cryptocosmic-guardian&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" />
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptocosmic-guardian&theme=tokyonight&layout=compact&langs_count=8&custom_title=Languages" />
-</p>
-
-<br clear="both"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cryptocosmic-guardian&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptocosmic-guardian&layout=compact&theme=tokyonight&hide_border=false" />
+</div>
 
 ---
 
-### 🧭 Fun Facts
+## ⚡ Fun Facts
 
-- 🧬 I believe every bug is just a misunderstood feature.
-- 🕹️ I code like a time traveler — one fix ahead of the future.
-- 📜 I'm writing code that might one day survive interstellar transmission.
+- 🧪 Every bug is just an alien in disguise
+- 🕹️ I code like a time traveler — always one commit ahead
+- 📡 My code is optimized for Earth and beyond 🌌
 
 ---
 
-#### 🌠 "Code is the closest thing to magic we’ve ever created." — And I plan to use it well.
+<h3 align="center">🌠 "Code is the closest thing to magic we’ve ever created."</h3>
