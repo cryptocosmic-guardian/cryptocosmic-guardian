@@ -11,9 +11,9 @@ I'm passionate about solving real problems with code — especially using **Kotl
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristianSaraiva&show_icons=true&theme=tokyonight" alt="Cristian's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cryptocosmic-guardian&show_icons=true&theme=tokyonight" alt="Cristian's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CristianSaraiva&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cryptocosmic-guardian&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
