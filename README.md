@@ -6,7 +6,7 @@
 # 👨‍🚀 Cristian Saraiva
 ### 360-Year-Old Tech Enthusiast from Planet ExoTerra 🌌
 
-> _"I don't just write code — I terraform ideas into reality."_
+> _"I don't just write code — I terraform ideas into reality.."_
 
 [![Telegram Badge](https://img.shields.io/badge/🔗%20Telegram-Join%20my%20Channel-blue?style=for-the-badge&logo=telegram)](https://t.me/ccgen_namsogen) [![GitHub Follow](https://img.shields.io/badge/⭐%20GitHub-Follow-blue?style=for-the-badge&logo=github)](https://github.com/cryptocosmic-guardian)
 
