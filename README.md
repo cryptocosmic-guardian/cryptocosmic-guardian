@@ -1,50 +1,43 @@
-<!-- Animated Banner -->
+<!-- Banner Animado -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cryptocosmic-guardian/cryptocosmic-guardian/main/assets/banner.gif" 
-       alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/cryptocosmic-guardian/cryptocosmic-guardian/main/assets/banner.gif" alt="Banner" width="100%" />
 </p>
 
-<!-- Header -->
-# 👨‍🚀 Cristian Saraiva  
-### 360-Year-Old Tech Enthusiast from Planet ExoTerra 🌌  
+<!-- Título e Citação -->
+<h1 align="center">👨‍🚀 Cristian Saraiva</h1>
+<h3 align="center">360-Year-Old Tech Enthusiast from Planet ExoTerra 🌌</h3>
+<p align="center"><em>"I don't just write code — I terraform ideas into reality."</em></p>
 
-> _"I don't just write code — I terraform ideas into reality."_  
-
-<!-- Social & Status Badges -->
+<!-- Badges Sociais -->
 <p align="center">
-  <!-- Telegram -->
   <a href="https://t.me/ccgen_namsogen">
-    <img src="https://img.shields.io/badge/🔗%20Telegram-Join%20my%20Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge" />
+    <img src="https://img.shields.io/badge/Telegram-Join%20my%20Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge" />
   </a>
-  <!-- GitHub Follow -->
   <a href="https://github.com/cryptocosmic-guardian">
-    <img src="https://img.shields.io/badge/⭐%20GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub Follow" />
-  </a>
-  <!-- Build Status (example) -->
-  <a href="https://github.com/cryptocosmic-guardian/cryptocosmic-guardian/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/cryptocosmic-guardian/cryptocosmic-guardian/ci.yml?style=for-the-badge&label=CI&logo=github-actions" alt="CI Status" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub Follow" />
   </a>
 </p>
 
 ---
 
-<!-- About Me with Confetti Background -->
-<div align="center" style="background: url('https://raw.githubusercontent.com/cryptocosmic-guardian/cryptocosmic-guardian/main/assets/confetti.gif') center/cover no-repeat; padding: 2rem; border-radius: 1rem;">
-  
-## 🧬 About Me  
-<span style="font-size:0.9rem; color:#FFD700;">#FFD700</span>  
-- **Origin:** 🪐 ExoTerra (Kepler-452)  
-- **Mindset:** 🧠 Autodidact · Curious · Relentless  
-- **Mission:** 🔭 Build tools that make life easier across galaxies  
-- **Fields:** 🛠️ Android Dev · Web Dev · AI Apps  
-
+<!-- Sobre Mim com Fundo Animado -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cryptocosmic-guardian/cryptocosmic-guardian/main/assets/confetti.gif" alt="Confetti Background" width="100%" />
 </div>
 
+## 🧬 Sobre Mim
+
+- **Origem:** 🪐 ExoTerra, orbitando Kepler-452
+- **Mentalidade:** 🧠 Autodidata · Curioso · Incansável
+- **Missão:** 🔭 Construir ferramentas que facilitem a vida em todas as galáxias
+- **Áreas de Atuação:** 🛠️ Desenvolvimento Android · Desenvolvimento Web · Ferramentas · Aplicações com IA
+
 ---
 
-## 💻 Tech Stack  
+## 💻 Tecnologias
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -54,7 +47,8 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 Estatísticas do GitHub
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cryptocosmic-guardian&show_icons=true&theme=radical&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptocosmic-guardian&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
@@ -62,11 +56,12 @@
 
 ---
 
-## ⚡ Fun Facts  
-- 🧪 Every bug is just an alien in disguise  
-- 🕹️ I code like a time traveler — one commit ahead  
-- 📡 Optimized for Earth and beyond  
+## ⚡ Curiosidades
+
+- 🧪 Cada bug é apenas um alienígena disfarçado
+- 🕹️ Codifico como um viajante do tempo — sempre um commit à frente
+- 📡 Otimizado para a Terra e além
 
 ---
 
-> 🌠 _"Code is the closest thing to magic we’ve ever created."_  
+> 🌠 _"Code is the closest thing to magic we’ve ever created."_
