@@ -27,8 +27,6 @@
 
 ## 🧬 About Me
 
-> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=32C5FF&width=435&lines=🌌+Cosmic+coder+on+a+mission+to+innovate;💡+Lifelong+learner+from+ExoTerra;🔭+Building+tools+across+the+galaxies" alt="Typing SVG" />
-
 - 🪐 **Origin:** ExoTerra, orbiting Kepler-452
 - 🧠 **Mindset:** Self-taught · Relentless · Curiously Creative
 - 🎯 **Mission:** Create tools that improve lives across galaxies
