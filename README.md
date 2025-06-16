@@ -70,5 +70,5 @@
 
 <!-- ✨ Animated Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=0,2,3,5,6,10" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=0,2,3,5,6,10,9" />
 </p>
