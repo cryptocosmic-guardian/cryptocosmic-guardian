@@ -1,44 +1,42 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cryptocosmic-guardian/cryptocosmic-guardian/main/assets/banner.gif" alt="Cosmic Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/cryptocosmic-guardian/cryptocosmic-guardian/main/assets/banner.gif" alt="Abstract Banner" width="100%" />
 </p>
 
-<h1 align="center">🧙‍♂️ Cristian Saraiva</h1>
-<h3 align="center">Digital Alchemist & Creative Problem-Solver</h3>
+<h1 align="center">🏗️ Cristian Saraiva</h1>
+<h3 align="center">Architecting Scalable Solutions & Building Digital Experiences</h3>
 
 <p align="center">
   <a href="https://t.me/ccgen_namsogen" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Get_in_Touch-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge" />
+    <img src="https://img.shields.io/badge/Telegram-Let's_Talk-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge" />
   </a>
   <a href="https://github.com/cryptocosmic-guardian" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-black?style=for-the-badge&logo=github" alt="GitHub Follow Badge" />
+    <img src="https://img.shields.io/badge/GitHub-My_Work-black?style=for-the-badge&logo=github" alt="GitHub Follow Badge" />
   </a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/cryptocosmic-guardian/cryptocosmic-guardian/main/assets/confetti.gif" alt="Animated Divider" width="100%" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=line&color=auto&height=2&section=header" width="100%" />
+</p>
 
-## 📜 About Me
+## 🏛️ The Architect's Vision
 
-Greetings! I'm a self-taught Digital Alchemist on a mission to transmute complex problems into elegant, functional solutions. Driven by relentless curiosity, I focus on crafting tools that solve real-world challenges and make a tangible impact.
+Hello! I'm a software developer who views technology as a form of architecture. My passion lies in designing and constructing robust, scalable, and intuitive digital solutions from the ground up.
 
-- 🚀 **My Quest:** To forge powerful solutions in **Android Development**, **Web**, and **AI Applications**.
-- 🧠 **Core Principles:** Continuous learning, creative spell-casting (problem-solving), and a passion for enchanting challenges.
-- 🔭 **Beyond the Code:** When I'm not brewing new projects, I'm fascinated by astronomy, science fiction, and the inherent magic of technology.
+I believe the best applications are built on a strong foundation of clean code, thoughtful design, and a deep understanding of the user's needs. My goal is not just to write code, but to engineer systems that are both built to last and delightful to use.
 
 ---
 
-## ⚗️ The Alchemist's Toolkit
+## 🧱 Core Frameworks & Materials
 
-Here are the core elements and incantations I use to bring ideas to life:
+These are the materials and frameworks I use to construct my projects:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,python,php,html,css,cpp,java,javascript,mysql,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=kotlin,python,php,html,css,cpp,java,javascript,mysql,git" alt="Core Technologies" />
 </p>
 
 ---
 
-## 📊 My GitHub Stats
+## 📈 Project Analytics & Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cryptocosmic-guardian&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
@@ -50,12 +48,12 @@ Here are the core elements and incantations I use to bring ideas to life:
 
 ---
 
-## ✨ Parting Incantations
+## 🧭 Guiding Principles
 
-- *"Code is the closest we've ever come to magic."*
-- Every bug is just a mischievous spirit waiting to be understood.
-- I code with foresight, always thinking one commit ahead.
+- **Measure twice, code once.** A solid plan is the foundation of any great project.
+- The user is the ultimate inhabitant of the application; their experience is the final measure of success.
+- An elegant structure is not just functional—it's maintainable and beautiful from the inside out.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=0,2,3,5,6,10,9" />
+  <img src="https://capsule-render.vercel.app/api?type=line&color=auto&height=2&section=footer" width="100%" />
 </p>
