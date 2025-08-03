@@ -36,14 +36,15 @@ These are the materials and frameworks I use to construct my projects:
 
 ---
 
-## 📈 Project Analytics & Metrics
+## 🏆 Accomplishments & Metrics
+
+Here's a more visual look at my contributions and achievements on GitHub.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cryptocosmic-guardian&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cryptocosmic-guardian&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=cryptocosmic-guardian&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=cryptocosmic-guardian&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://metrics.lecoq.io/cryptocosmic-guardian?template=classic&config_animations=true&plugins=isocalendar,languages" alt="GitHub Metrics" />
 </p>
 
 ---
